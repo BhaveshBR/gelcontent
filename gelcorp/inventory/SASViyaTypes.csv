@@ -1,0 +1,173 @@
+﻿Scannable,Portfolio,Sellable Offering,DisplayName,Type,TypeDescription,Product
+,Fraud and Security Intelligence,SAS Adaptive Learning and Intelligent Agent System,Adaptive Machine Learning Agent,adaptiveAgent,An agent is the root resource of the API used to manage the creation of adaptive models to fit for a particular problem,Adaptive Machine Learning Service
+,Fraud and Security Intelligence,SAS Visual Investigator,VI Alert,alert,,VI Alert Service
+,Foundation,SAS Foundation,Analytic Store File,Analytic Store File,,CAS
+,Analytics,SAS Model Manager,Analytics Component,analyticsComponent,,Advanced Analytics Components
+,Analytics,SAS Model Manager,Analytics Flow,analyticsFlow,,Advanced Analytics Flows
+,Internet of Things,SAS Event Stream Processing,Analytics Stream,analyticsStream,,Advanced Analytics Events
+,Foundation,Viya Common Foundation,Annotation,annotation,"Augments a target resource (typically a column or table), with information that extends beyond the resource's physical properties",Annotations Service
+,Business Intelligence,SAS Visual Analytics,Application Theme,applicationTheme,,Themes Service
+,Business Intelligence,SAS Visual Analytics,App Registry Application,appRegistryApplication,,AppRegistry Service
+,Business Intelligence,SAS Visual Analytics,App Registry Type,appRegistryType,,AppRegistry Service
+,Foundation,Viya Common Foundation,Audit Entry,auditEntry,,Audit Service
+,Industry Solutions,SAS Markdown Optimization,Retail Pricing Available Date,availableDate,,Retail Pricing Service
+,Foundation,Viya Common Foundation,Deployment Backup Instance,backup,A backup summary of a previously executed backup.,Deployment Backup Service
+,Industry Solutions,SAS Markdown Optimization,Retail Pricing Business Category,businessCategory,,Retail Pricing Service
+,Foundation,Viya Common Foundation,CAS Library,caslib,"n in-memory container for tables, access controls, and data source information that can support multi-user and multi-session access.",casManagement
+,Foundation,Viya Common Foundation,CAS Library Control,caslibControl,A set of permissions that governs a user or group’s interactions with a CAS Library on a particular CAS server.,casAccessManagement
+,Foundation,Viya Common Foundation,CAS Server,casServer,A cloud analytic server from SAS.,casManagement
+,Foundation,Viya Common Foundation,CAS Server Policy,casServerPolicy,The settings for managing resource utilization in a CAS server.,casManagement
+,Foundation,Viya Common Foundation,CAS Table,casTable,"An in-memory, two-dimensional representation of data in SAS Cloud Analytic Services.",casManagement
+,Analytics,SAS Visual Text Analytics,Categorization Jobs,categorizationJobs,,Categorization Service
+,Analytics,SAS Visual Text Analytics,Category Taxonomy,categoryTaxonomy,,Category Taxonomy Service
+,Analytics,SAS Model Manager,Workflow Client Registration,clientRegistration,A registration object representing an application which uses the workflow service,Workflow Service
+,Decision Management,SAS Intelligent Decisioning,Code File,codeFile,"Wrapper to file resource which contains the signature of the code. Types are decisionDS2CodeFile, decisionSQLCodeFile and decisionPythonFile.",Decisions Service
+,Foundation,SAS Foundation,Comma Separated Values File,Comma Separated Values File,Supported data file type,CAS and SPRE
+,Business Intelligence,SAS Visual Analytics,Comment,comment,Comment object,Comments Service
+,Analytics,SAS Model Manager,Component Template,componentTemplate,,Advanced Analytics Components
+,Foundation,Viya Common Foundation,Compute Context,computeContext,,Compute Service
+,Foundation,Viya Common Foundation,Compute Server,computeServer,,Compute Service
+,Foundation,Viya Common Foundation,Compute Session,computeSession,,Compute Service
+,Analytics,SAS Visual Text Analytics,Concepts Job,conceptsJob,"A container for an asynchronous operation. A job supports a number of different operations such as checking a state, canceling an operation, fetching results, and so on.",Concepts Service
+,Analytics,SAS Visual Text Analytics,Concept Taxonomy,conceptTaxonomy,A hierarchical relationship of parent and child concept nodes,Concept Taxonomy Service
+,Foundation,Viya Common Foundation,Consul Instance,Consul Instance,Third party tool used for storing and managing SAS system configuration data.,SAS Configuration Server
+,Foundation,Viya Common Foundation,Credentials,credentials,,Credentials Service
+,Foundation,Viya Common Foundation,Configuration Current State,current,,Configuration Service
+,Data Management,SAS Data Preparation,Data Agent Content Server,dataAgentContentServer,,Data Agent Content Service
+,Industry Solutions,SAS Markdown Optimization,Retail Pricing Data Authorization,dataAuthorizationRule,,Retail Pricing Service
+,Data Management,SAS Data Preparation,Database Catalog,databaseCatalog,Database object definitions such as a logical view in a relational database management system (RDMS).,Data Explorer UI
+,Data Management,SAS Data Preparation,Database Schema,databaseSchema,A layout of table data organization in a relational database management system (RDMS).,Data Explorer UI
+,Data Management,SAS Data Preparation,Database Server,databaseServer,A host server used to run a database.,Data Explorer UI
+,Data Management,SAS Data Preparation,Database Table,databaseTable,A table or view of rectangular data in a relational database management system (RDMS).,Data Explorer UI
+,Data Management,SAS Data Preparation,Data Column,dataColumn,The vertical component of a table.,Data Tables
+,Analytics,SAS Visual Forecasting,Forecasting Data Definition,dataDefinition,,Forecasting Data Definition Service
+,Data Management,SAS Data Preparation,Data Discovery Assessment Job,dataDiscoveryAssessmentJob,,Data Discover Service
+,Data Management,SAS Data Preparation,Data Discovery Assessment Report,dataDiscoveryAssessmentReport,,Data Discover Service
+,Data Management,SAS Data Preparation,Data Discovery Model,dataDiscoveryModel,,Data Discover Service
+,Data Management,SAS Data Preparation,Data Discovery Model Provisioning Job,dataDiscoveryModelProvisioningJob,,Data Discover Service
+,Data Management,SAS Data Preparation,Data Discovery Suggestion Job,dataDiscoverySuggestionJob,,Data Discover Service
+,Data Management,SAS Data Preparation,Data Discovery Suggestion Report,dataDiscoverySuggestionReport,,Data Discover Service
+,Data Management,SAS Data Preparation,Data Discovery Training Data Job,dataDiscoveryTrainingDataJob,,Data Discover Service
+,Analytics,SAS Visual Data Mining and Machine Learning,Data Mining Model,dataMiningModel,"Contains the lifecycle properties, flags indicating whether the model has been registered, published ",Data Mining Model Service
+,Analytics,SAS Visual Data Mining and Machine Learning,Data Mining Results,dataMiningResults,,Data Mining Results
+,Data Management,SAS Data Preparation,Data Plan,dataPlan,A document describing a set of data preparation actions.,Data Plans
+,Data Management,SAS Data Preparation,Data Source,dataSource," storage location for, or connection information to data.",Data Sources
+,Data Management,SAS Data Preparation,Data Table,dataTable,"A two-dimensional representation of data, in which the data values are arranged in rows and columns.",Data Tables
+,Decision Management,Real Time Decisioning,Decision,decision," collection of rule sets and analytical models, defined in a specific order, together with variables and flow control logic that determines how the rule sets and models are run.",Decisions Service
+,Foundation,Viya Common Foundation,Configuration Definition,definition,,Configuration Service
+,Business Intelligence,SAS Visual Analytics,Directive Content,directiveContent,,AppRegistry Service
+,Business Intelligence,SAS Visual Analytics,Report Distribution Request,distributionRequest,Report distribution request object type,Report Distribution Service
+,Foundation,Viya Common Foundation,Credential Domain,domain,,Credentials Service
+,Fraud and Security Intelligence,SAS Visual Investigator,VI Audit Entry,entries,,VI Audit Service
+,Data Management,SAS Data Quality,QKB Management Environment,environment,,QKB Management Service
+,Analytics,SAS Visual Forecasting,Forecasting Event Specification,eventSpecification,,Forecasting Event Specification Service
+,Foundation,Viya Common Foundation,Configuration Expectation,expectation,,Configuration Service
+,Foundation,Viya Common Foundation,Configuration Fact,fact,,Configuration Service
+,Industry Solutions,SAS Common Planning Service,Planning Fact Table,factTable,Fact Table refers to the metadata information that is used to define the structure of fact data to be loaded.,Planning Service
+,Fraud and Security Intelligence,SAS Visual Investigator,VI Feature,feature,,VI Feature Service
+,Foundation,Viya Common Foundation,File,file,File object,File Service
+,Analytics,SAS Visual Forecasting,Forecasting Filters Specification,filtersSpec,,Forecasting Filters Service
+,Foundation,Viya Common Foundation,Folder,folder,Virtual container object,Folders Service
+,Business Intelligence,SAS Visual Analytics,Collection of Folder(s),folderReferenceAdmin,"A collection refers to a folder. That folder is its backing folder. For a user to access a collection, they have to be able to read its backing folder.",Collections Service
+,Foundation,Viya Common Foundation,Genaudit Record File,Genaudit Record File,,Monitoring Service
+,Foundation,Viya Common Foundation,Genaudit Timeslice File,Genaudit Timeslice File,,Monitoring Service
+,Decision Management,SAS Intelligent Planning,Demand Planning Global Parameters,globalParameters,,Demand Planning Service
+,Industry Solutions,SAS Markdown Optimization,Retail Pricing Global Setting,globalSetting,,Retail Pricing Service
+,Business Intelligence,SAS Visual Analytics,Graph Template,graphTemplate,Graph Template object,Graph Templates Service
+,Foundation,Viya Common Foundation,Identity Group,identityGroup,A compilation of user and group identifications that is managed by a system administrator.,Identities Service
+,Foundation,Viya Common Foundation,Identity User,identityUser,,Identities Service
+,Fraud and Security Intelligence,SAS Visual Investigator,VI Import Configuration,importConfiguration,,VI Import Service
+,Fraud and Security Intelligence,SAS Visual Investigator,VI Import Configuration Category,importConfigurationCategory,,VI Import Service
+,Data Management,SAS Data Quality,QKB Import Job,importjob,,QKB Management Service
+,Foundation,Viya Common Foundation,Job Execution Job,job,n instance of executing code created from a Job request.,Job Execution Service
+,Foundation,Viya Common Foundation,Job Action,jobAction,The job action contains the information necessary for a scheduler to execute the job.,Job Flow Scheduling Service
+,Foundation,Viya Common Foundation,Job Definition,jobDefinition,Defines the actions that a Job is to perform.,Job Definition Service
+,Foundation,Viya Common Foundation,Job Flow  ,jobFlow,"The flow is the main object that holds all the job actions and sub-flows, their dependencies, and the information when the scheduler should execute/trigger a new instance of the flow to run.",Job Flow Scheduling Service
+,Foundation,Viya Common Foundation,Job Execution Request,jobRequest,Defines the action to be taken in order to execute a Job.,Job Execution Service
+,Foundation,Viya Common Foundation,Launcher Context,launcherContext,,Launcher Service
+,Foundation,Viya Common Foundation,Launcher Process,launcherProcess,,Launcher Service
+,Industry Solutions,SAS Markdown Optimization,Retail Pricing Lifecycle Date,lifeCycleDate,,Retail Pricing Service
+,Analytics,SAS Model Manager,Localization Context,localizationContext,,Advanced Analytics Localization
+,Internet of Things,SAS Analytics for IoT,IoT Localization Group,localizationGroup,A localization module contains details about the dynamic localization values required at runtime of the application which can be configured at customer site using the provided REST endpoint.,Analytics for IoT Mart Metadata Service
+,Analytics,SAS Visual Forecasting,Forecasting Strategy Macro Variable,macroVariable,,Forecasting Gateway Service
+,Business Intelligence,SAS Visual Analytics,Map Provider,mapProvider,,Map Providers
+,Industry Solutions,SAS Markdown Optimization,Retail Pricing Merchandise Group,merchandiseGroup,,Retail Pricing Service
+,Industry Solutions,SAS Markdown Optimization,Retail Pricing Merchandise User,merchandiseUser,,Retail Pricing Service
+,Analytics,SAS Model Manager,Micro Analytic Job,microAnalyticJob,,Micro Analytic Service
+,Analytics,SAS Model Manager,Micro Analytic Module,microAnalyticModule,,Micro Analytic Service
+,Analytics,SAS Model Manager,Model,model,"A model is a formula or algorithm that computes outputs from inputs. It includes information about the conditional distribution of the target variables, given the input variables.",Model Repository
+,Analytics,SAS Model Manager,Model Project,modelProject,"A model project contains a collection of models, and input variables that can be used to produce a set of output variables.",Model Repository
+,Analytics,SAS Model Manager,Model Publish,modelPublish,,Model Publish
+,Analytics,SAS Model Manager,Model Repository,modelRepository,,Model Repository
+,Analytics,SAS Model Manager,Model Studio Project,modelStudioProject,A container used to group resources that are created while developing a model using Model Studio.,Advanced Analytics Gateway
+,Analytics,SAS Visual Text Analytics,Natural Language Generation Document,naturalLanguageGenerationDocument,,Natural Language Generation Service
+,Analytics,SAS Visual Text Analytics,Natural Language Generation Template,naturalLanguageGenerationTemplate,,Natural Language Generation Service
+,Foundation,Viya Common Foundation,Notification,notification,,Notification Service
+,Foundation,Viya Common Foundation,Registered Object Type,objectType,Meta-information about an object type that is persisted in the SAS microservices environment. These will typically be objects that can be rendered in a User Interface view with a label and icon.,Types Service
+,Analytics,SAS Visual Forecasting,Forecasting Overrides Specification,overridesSpecification,,Forecasting Overrides Service
+,Analytics,SAS Visual Forecasting,Forecasting Overrides Transaction,overridesTransaction,,Forecasting Overrides Service
+,Analytics,SAS Visual Text Analytics,Text Parsing Job,parsingJob,"A job supports a number of different operations such as checking a state, canceling an operation, fetching results, and so on.",Parsing Service
+,Analytics,SAS Model Manager,Model Performance Task,performanceTask,,Model Management Service
+,Analytics,SAS Model Manager,Pipeline,pipeline,,Advanced Analytics Pipelines
+,Analytics,SAS Model Manager,Pipeline Policy,pipelinePolicy,,Advanced Analytics Pipelines
+,Analytics,SAS Model Manager,Pipeline Template,pipelineTemplate,,Advanced Analytics Pipelines
+,Industry Solutions,SAS Common Planning Service,Planning Area,planningArea,A Planning Area represents the planning cycle. ,Planning Service
+,Industry Solutions,SAS Common Planning Service,Planning Dimension,planningDimension,A dimension is a set of members.,Planning Service
+,Industry Solutions,SAS Common Planning Service,Planning Hierarchy,planningHierarchy,A Hierarchy is an arrangement of related objects into levels that are based on parent-child relationships.,Planning Service
+,Decision Management,SAS Intelligent Planning,Demand Planning Job,planningJob,A job is a unit of work that executes a time and resource intensive task asynchronously.,Demand Planning Service
+,Industry Solutions,SAS Common Planning Service,Planning Property,planningProperty,Property represents the type of Member Property Values that can be created.,Planning Service
+,Industry Solutions,SAS Markdown Optimization,Retail Pricing Price Ending,priceEnding,,Retail Pricing Service
+,Industry Solutions,SAS Markdown Optimization,Retail Pricing Price Grid,priceGrid,,Retail Pricing Service
+,Industry Solutions,SAS Common Planning Service,Planning Process Analytics,processAnalytics,,Planning Process Service
+,Industry Solutions,SAS Common Planning Service,Process Flow Component,processFlowComponent,,Process Flow Service
+,Industry Solutions,SAS Common Planning Service,Process Flow Function,processFlowFunction,,Process Flow Service
+,Industry Solutions,SAS Common Planning Service,Process Flow Instance,processFlowInstance,,Process Flow Service
+,Data Management,SAS Data Preparation,Data Profile Definition,profileDefinition,"A definition includes lists of Source Tables and Source Columns. Collectively, these tables and columns will become targets of a data profiling operation.",Data Profiles
+,Business Intelligence,SAS Visual Analytics,Project,project,A container that groups a set of resources and participants.,Project Service
+,Fraud and Security Intelligence,SAS Visual Investigator,VI Project Representation,projectRep,,VI Analyze and Index Service
+,Analytics,SAS Visual Data Mining and Machine Learning,Data Mining Project Settings,projectSettings,A conglomeration of all project subsettings objects.,Data Mining Project Settings Service
+,Foundation,Viya Common Foundation,Job Execution Provider Summary,providerSummary,,Job Execution Service
+,Analytics,SAS Model Manager,Publishing Destination,publishingDestination,"A configured location where objects such as a rule set, a decision, or a model can be published.",Model Publish
+,Data Management,SAS Data Quality,QKB Knowledge Base,qkb,,QKB Management Service
+,Decision Management,Real Time Decisioning,Lookup Table,referenceDataDomain,"A set of related, static values that an application uses for selection lists, descriptions, or other purposes.",Reference Data Service
+,Business Intelligence,SAS Visual Analytics,Report,report,Report object type,Reports Service
+,Business Intelligence,SAS Visual Analytics,Report Alert Condition,reportAlertCondition,Report alert condition object type,Report Alerts
+,Business Intelligence,SAS Visual Analytics,Report Alert Subscriber,reportAlertSubscriber,Report alert subscriber object type,Report Alerts
+,Business Intelligence,SAS Visual Analytics,Report Alert Subscription,reportAlertSubscription,Report alert subscription object type,Report Alerts
+,Business Intelligence,SAS Visual Analytics,Report Data View,reportDataView,Report data view object type,Report Templates
+,Business Intelligence,SAS Visual Analytics,Report Object,reportObject,Report object object type,Report Templates
+,Business Intelligence,SAS Visual Analytics,Report Snippet,reportSnippet,Report snippet object type,Report Templates
+,Business Intelligence,SAS Visual Analytics,Report Theme,reportTheme,,Themes Service
+,Industry Solutions,SAS Markdown Optimization,Retail Pricing Rule,rule,,Retail Pricing Service
+,Decision Management,SAS Intelligent Decisioning,Rule Set,ruleSet,A group of business rules and conditional logic that determines how the rules are run.,Business Rules Service
+,Foundation,SAS Foundation,SAS Catalog,SAS Catalog,SAS catalog file in filesystem,SPRE
+,Foundation,SAS Foundation,SAS Data Set,SAS Data Set,SAS dataset file in filesystem,SPRE
+,Foundation,SAS Foundation,SASHDAT File,SASHDAT File,SAS data file in filesystem,CAS
+,Industry Solutions,SAS Common Planning Service,SAS Infrastructure Data Server - CPS PostgreSQL,SAS Infrastructure Data Server - CPS PostgreSQL,Third party database to store persisted objects in the SAS Common Planning Service system.,SAS Infrastructure Data Server
+,Foundation,Viya Common Foundation,SAS Infrastructure Data Server - HA PostgreSQL,SAS Infrastructure Data Server - HA PostgreSQL,Third party database to store persisted objects in the SAS system.,SAS Infrastructure Data Server
+,Foundation,SAS Foundation,SAS Program File,SAS Program File,SAS program file in filesystem,SPRE
+,Foundation,Viya Common Foundation,Authorization Rule,savedAuthorizationRule,An action or set of actions that is either permitted or prohibited for a given principal or set of principals. A rule can include a condition that limits the circumstances under which the rule applies.,Authorization Service
+,Foundation,Viya Common Foundation,Authorization Share,savedShare,"A simplified abstraction of an authorization rule. Each share identifies a target object (resource), a recipient (principal), and a level of access (type). Each share is backed by a corresponding authorization rule. Shares can help users easily make resources available to each other.",Authorization Service
+,Foundation,Viya Common Foundation,Job Flow Scheduler,scheduler,The scheduler object contains the particular capabilities of the scheduler.,Job Flow Scheduling Service
+,Analytics,SAS Model Manager,Score Definition,scoreDefinition,"Contains the information required to score (test) a decision, model, or rule set, including a data source name and variable mappings.",Score Definition
+,Analytics,SAS Model Manager,Score Execution,scoreExecution,Output resulting from the execution of a score definition.,Score Execution
+,Foundation,Viya Common Foundation,Scoring Resource File,Scoring Resource File,,Multiple Analytic Services
+,Analytics,SAS Model Manager,Segmentation Plan,segmentationPlan,"A specification of a particular attribute, or collection of attributes used to segment the data. For instance: segment by zip code. Each segment in the plan may be modeled using a different technique.",Analytics Data Segmentation Modeling
+,Analytics,SAS Visual Text Analytics,Sentiment Job,sentimentJob,,Sentiment Service
+,Decision Management,SAS Intelligent Decisioning,Decision Subject Contact,subjectContact,,Subject Contacts Service
+,Foundation,Viya Common Foundation,Notification Subscription,subscription,,Notification Service
+,Foundation,Viya Common Foundation,CAS Table Control,tableControl,A set of permissions that governs a user or group’s interactions with a table in a CAS Library on a particular CAS server.,casAccessManagement
+,Internet of Things,SAS Analytics for IoT,IoT Table Metadata,tableMeta,"A table metadata is a table name representing a table in the application mart which we are using to query to get the values from that table as and when required, so this can be used as a from clause in appropriate places.",Analytics for IoT Mart Metadata Service
+,Data Management,SAS Data Preparation,Data Transformation,transformation,,Data Transformations Service
+,Decision Management,SAS Intelligent Decisioning,Treatment Definition,treatmentDefinition,The set of eligibility rules and attributes that define an offer.,Treatment Definition
+,Decision Management,SAS Intelligent Decisioning,Treatment Definition Group,treatmentGroup,"A set of treatment definitions, customized attribute values, and additional data that can be added to a decision.",Treatment Definition
+,Foundation,SAS Foundation,SAS USERMODS File,SAS USERMODS File,SAS file in the filesystem which contains user specific options.,SPRE
+,Analytics,SAS Model Manager,Validation Model,validationModel,,Advanced Analytics Validation
+,Analytics,SAS Visual Data Mining and Machine Learning,Data Mining Warehouse Record,warehouseRecord,Data Mining Warehouse records for a project or a component.,Data Mining Warehouse Service
+,Foundation,Viya Common Foundation,Web Data Provider,webDataProvider,The website or web application providing data to be analysed.,Web Data Access Service
+,Analytics,SAS Model Manager,Workflow Definition,workflowDefinition, The Business Process Modeling Notation representation of the Workflow Process along with its associated metadata.,Workflow Definition Service
+,Fraud and Security Intelligence,SAS Visual Investigator,VI Workflow Process Representation,workflowProcessRep,Instance that is currently running the workflow against the entity instance,VI Datahub Service
+,Analytics,SAS Model Manager,Workflow Process,workflowProcess,Represents a process execution in a BPMN process which is often made up of a hierarchy of subprocesses.,Workflow Service
+,Fraud and Security Intelligence,SAS Visual Investigator,VI Workflow,workflowRep,Defines a Business Process Model and Notation model that will be used to process a workflow against a select entity instance. ,VI Datahub Service
+,Fraud and Security Intelligence,SAS Visual Investigator,VI Workflow Revision,workflowRevision,A version of the workflow definition.,VI Datahub Service
+,Analytics,SAS Model Manager,Workflow Tag,workflowTag,"A name associated with a definition that can be used to filter processes, tasks, and definitions from a client.",Workflow Service
